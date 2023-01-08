@@ -22,4 +22,4 @@ The HTML file already contains all the poorly written JavaScript needed for this
 
 The repo only has the `gh-pages` branch, this is done so GitHub hosts this project here:
 
-- https://xjcl.github.io/ld52_french_frogger/index.html
+- https://xjcl.github.io/ld52_french_frogger/game.html
